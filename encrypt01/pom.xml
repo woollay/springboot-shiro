@@ -8,7 +8,7 @@
         <version>2.1.7.RELEASE</version>
         <relativePath/>
     </parent>
-    <groupId>com.test</groupId>
+    <groupId>com.justinsoft</groupId>
     <artifactId>encrypt-test</artifactId>
     <version>1.0-SNAPSHOT</version>
     <name>encrypt-test</name>
